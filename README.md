@@ -33,7 +33,7 @@ I am seeking an entry-level Tier 1 SOC Analyst opportunity where I can apply my 
 
 ## Featured Projects
 
-### 1. SentinelFlow — AI-Assisted SOC Automation
+### 1. SentinelFlow - AI-Assisted SOC Automation
 
 [View Repository](https://github.com/dipsongurung016/SentinelFlow-SOC-Automation)
 
