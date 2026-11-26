@@ -2,7 +2,6 @@
 # Hello, I'm Dipson Gurung
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipson-gurung/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dipsongurung.com.np)
 
 ## About Me
 
@@ -14,7 +13,7 @@ I enjoy investigating security events, understanding attacker behaviour and expl
 
 ## Objective
 
-I am seeking a SOC Analyst internship or an entry-level Tier 1 SOC Analyst opportunity where I can apply my technical knowledge, strengthen my investigation skills and contribute to defensive security operations.
+I am seeking an entry-level Tier 1 SOC Analyst opportunity where I can apply my technical knowledge, strengthen my investigation skills and contribute to defensive security operations.
 
 ## Skills
 
